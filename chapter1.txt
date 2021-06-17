@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is my first chapter.
-=======
-This is my first chapter. Happy learning
->>>>>>> alien-plot
